@@ -1,0 +1,45 @@
+.custom-div,.custom-2,.custom-3,.custom-4,.custom-5,.custom-6,.custom-8,.custom-7,.custom-10{
+    
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    min-height: 300px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.custom-div{
+    background-color: blue;
+}
+.custom-2{
+    background-color: blueviolet;
+}
+.custom-3{
+    background-color: brown;
+}
+.custom-4{
+    background-color: black;
+}
+.custom-5{
+    background-color: aqua;
+}
+.custom-6{
+    background-color: rgb(168, 18, 146);
+}
+.custom-8{
+    background-color: greenyellow;
+}
+.custom-7{
+    background-color: peru;
+}
+.custom-10{
+    min-height: 300px;
+    background-color: aquamarine;
+    padding: 10px;
+    color: white;
+}
+.custom-11{
+    min-height: 140px;
+    background-color: antiquewhite;
+    color: white;
+    padding: 10px;margin-bottom: 4px;
+}
